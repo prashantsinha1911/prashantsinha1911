@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Sinha 👋
 - **Email**: prashantsinha789@gmail.com
-- **Resume**: https://github.com/prashantsinha1911/prashantsinha1911-main/blob/main/Prashant_Sinha_8_LeadQA.pdf
+- **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant_Sinha_8_LeadQA.pdf
 - **LinkedIn**: https://www.linkedin.com/in/prashant-sinha-lead-quality-engineer/
 - **Phone**: +91 8971191121
 
