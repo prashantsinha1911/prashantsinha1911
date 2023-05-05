@@ -1,7 +1,6 @@
 ### Hi there, I'm Prashant Sinha 👋
 - **Email**: prashantsinha789@gmail.com
 - **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant_Sinha_8_LeadQA.pdf
-- **LinkedIn**: https://www.linkedin.com/in/prashant-sinha-lead-quality-engineer/
 - **Phone**: +91 8971191121
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
@@ -68,7 +67,6 @@
 
 [website]: https://github.com/prashantsinha1911
 [instagram]: https://www.instagram.com/prashant.sinha7891/
-[linkedin]: https://www.linkedin.com/in/prashant-sinha-lead-quality-engineer/
 [fb]: https://www.facebook.com/pksinha91
 [whatsapp]: https://api.whatsapp.com/send?phone=918971191121&text=Hello
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
