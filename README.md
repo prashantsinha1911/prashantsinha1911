@@ -16,14 +16,14 @@
 ---
 
 ## I'm a Software Test Engineer and a Scrum Master!! 
-- 🔭 8 years of Software industry experience in Software testing (Manual, Automation, API and Web services testing).
-- 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
-- 👯 Proficient in Javascript Based UI Automation Tools (CypressIO, WebdriverIO, NightwatchJS, TestCafe, Protractor).
-- ⚡ Strong experience on POM, Mocha, Cucumber and ChaiJS Framework automation using JavaScript.
-- 👯 Well exeprenced in Jenkins CI CD 
-- 🔭 Good exposure on Docker
-- 👯 Very Good Knowledge on Jira and TFS bug tracking tools
-- 🔭 Agile Practitioner and a Scrum Master
+🔭 8 years of Software industry experience in Software testing (Manual, Automation, API, and Web services testing).
+🌱 Exposure to Software Engineering Processes and familiarity with various Life Cycles Models like SDLC, STLC, and BLC.
+👯 Proficient in Javascript Based UI Automation Tools (CypressIO, WebdriverIO, NightwatchJS, TestCafe, Protractor).
+⚡ Strong experience with POM, Mocha, Cucumber, and ChaiJS Framework automation using JavaScript.
+👯 Well experienced in Jenkins CI CD
+🔭 Good exposure to Docker
+👯 Very Good Knowledge of Jira and TFS bug-tracking tools
+🔭 Agile Practitioner and a Scrum Master
 
 ---
 
