@@ -67,6 +67,6 @@
 
 [website]: https://github.com/prashantsinha1911
 [instagram]: https://www.instagram.com/prashant.sinha7891/
-[fb]: https://www.facebook.com/pksinha91
+[fb]: https://www.facebook.com/prashantsinha1911
 [whatsapp]: https://api.whatsapp.com/send?phone=918971191121&text=Hello
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
