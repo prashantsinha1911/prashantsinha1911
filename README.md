@@ -3,12 +3,13 @@
 - **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant.pdf
 - **Phone**: +91 8971191121
 
-<a href="[website]" style="text-decoration: none; color: #007bff;"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" /></a>
-<a href="[linkedin]" style="text-decoration: none; color: #007bff;"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="[fb]" style="text-decoration: none; color: #007bff;"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="[instagram]" style="text-decoration: none; color: #007bff;"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="[whatsapp]" style="text-decoration: none; color: #007bff;"><img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
-<a href="[gmail]" style="text-decoration: none; color: #007bff;"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="[website]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" /></a>
+<a href="[linkedin]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="[fb]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="[instagram]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="[whatsapp]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
+<a href="[gmail]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+
 
       👈 These are active links, Please click and explore
 </br>
