@@ -1,29 +1,53 @@
-### Hi there, I'm Prashant Sinha 👋
+### Hi there, I'm Prashant Sinha! 👋
 - **Email**: prashantsinha789@gmail.com
-- **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant Kumar Sinha_Lead Quality Engineer_IT_8+.pdf
+- **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant%20Kumar%20Sinha_Lead%20Quality%20Engineer_IT_8%2B.pdf
 - **Phone**: +91 8971191121
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][fb]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-      👈 These are active links, Please click and explore
+
+Sure, here's a refined version of your GitHub profile:
+
+Hi there, I'm Prashant Sinha! 👋
+Email: prashantsinha789@gmail.com
+Resume: View Resume
+Phone: +91 8971191121
+
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+👈 These are active links, Please click and explore
 </br>
 
 
 ---
 
-## I'm a Software Test Engineer and a Scrum Master!! 
-- 🔭 8+ years of Software industry experience in Software testing (Manual, Automation, API and Web services testing).
-- 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
-- 👯 Proficient in Javascript Based UI Automation Tools (CypressIO, WebdriverIO, NightwatchJS, TestCafe, Protractor).
-- ⚡ Strong experience on POM, Mocha, Cucumber and ChaiJS Framework automation using JavaScript.
-- 👯 Well experienced in Jenkins CI CD 
-- 🔭 Good exposure on Docker
-- 👯 Very Good Knowledge on Jira and TFS bug tracking tools
+
+Sure, here's a refined version of your GitHub profile:
+
+Hi there, I'm Prashant Sinha! 👋
+Email: prashantsinha789@gmail.com
+Resume: View Resume
+Phone: +91 8971191121
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+👈 These are active links, Please click and explore
+
+## I'm a Software Test Engineer and a Scrum Master!!
+- 🔭 8+ years of experience in Software testing (Manual, Automation, API and Web services testing).
+- 🌱 Familiar with various Life Cycle Models like SDLC, STLC, BLC.
+- 👯 Proficient in JavaScript Based UI Automation Tools (CypressIO, WebdriverIO, NightwatchJS, TestCafe, Protractor).
+- ⚡ Strong experience on POM, Mocha, Cucumber, and ChaiJS Framework automation using JavaScript.
+- 👯 Well experienced in Jenkins CI CD
+- 🔭 Good exposure to Docker
+- 👯 Very Good Knowledge of Jira and TFS bug tracking tools
 - 🔭 Agile Practitioner and a Scrum Master
+
 
 ---
 
