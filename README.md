@@ -54,11 +54,11 @@
 ### 3.	TechChefs Software Pvt Ltd [04/2020 to 03/2021]
 - ####  Client : Beckman Coulter
 ### 4.	Beckman Coulter [03/2021 to 09/2022]
-### 5.	Msys Technologies [09/2022 to to 02/2023]
+### 5.	Msys Technologies [09/2022 to 02/2023]
 - ####  Client : Bakkt
-### 6.	SMC2 [02/2023 to to 05/2023]
+### 6.	SMC2 [02/2023 to 05/2023]
 - ####  Client : CarParts
-### 7.	Jeeves [02/2023 to to 05/2023]
+### 7.	Jeeves [05/2023 to Present]
 
 
 # Education (2011 to 2015)
