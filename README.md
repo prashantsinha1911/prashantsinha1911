@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant Sinha 👋
 - **Email**: prashantsinha789@gmail.com
-- **Resume**: 
+- **Resume**: https://github.com/prashantsinha1911/prashantsinha1911/blob/main/Prashant.pdf
 - **Phone**: +91 8971191121
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />][website]
