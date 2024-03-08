@@ -9,8 +9,6 @@
 <a href="[instagram]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="[whatsapp]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></a>
 <a href="[gmail]" style="text-decoration: none; color: #ffffff;"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-
-
       👈 These are active links, Please click and explore
 </br>
 
