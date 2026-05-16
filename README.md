@@ -18,7 +18,7 @@
 
 - 🔭 **10+ years** of professional expertise in Quality Assurance, focusing on automation and manual testing within the IT industry.
 - 🚀 Designed and implemented automation frameworks using **Cypress, Playwright, JavaScript, and TypeScript**, achieving up to **90% increase in test case coverage**.
-- 👯 Led and developed high-performing QA teams — up to **4 direct** and **13 indirect** reports.
+- 🧑‍🏫 Mentored **20+ QA engineers** across multiple organizations, fostering a culture of quality and continuous improvement.
 - ⚡ Built a **custom Playwright NPM package** adopted across multiple teams to standardize and accelerate automation.
 - 🔭 Pioneered **UI Visual Regression Testing** using Playwright for pixel-perfect cross-browser and cross-device validations.
 - 👯 Hands-on with **API automation** using Axios, Postman, and Karate Framework; performance testing with Artillery and JMeter.
@@ -29,53 +29,47 @@
 
 # Skills
 
-### Test Automation
-- Playwright · Cypress · WebdriverIO · NightwatchJS · TestCafe · Protractor
+### 🤖 Test Automation
+`Playwright` `Cypress` `WebdriverIO` `NightwatchJS` `TestCafe` `Protractor`
 
-### Languages
-- JavaScript · TypeScript · Core Java
+### 💻 Languages
+`JavaScript` `TypeScript` `Python` `Core Java`
 
-### API & Performance Testing
-- Postman · Axios · Karate Framework · Artillery · JMeter
+### 🔌 API & Performance Testing
+`Postman` `Axios` `Karate Framework` `Artillery` `JMeter`
 
-### Frameworks & Methodologies
-- BDD / Cucumber · Page Object Model (POM) · Facade Design Pattern · Agile / Scrum
+### 🗄️ Data Testing
+`Great Expectations` `Snowflake` `PostgreSQL` `SQL`
 
-### CI/CD & DevOps
-- Jenkins · Azure DevOps (ADO) · YAML Pipelines · Git
+### 🏗️ Frameworks & Methodologies
+`BDD / Cucumber` `Page Object Model (POM)` `Facade Design Pattern` `Agile / Scrum`
 
-### Data Testing
-- Python · Great Expectations · Snowflake · PostgreSQL
+### ⚙️ CI/CD & DevOps
+`Jenkins` `Azure DevOps (ADO)` `YAML Pipelines` `Git`
 
-### Tools & Platforms
-- JIRA · SQL · MacOS · Windows · Ubuntu · KNIME Workflow
+### 🛠️ Tools & Platforms
+`JIRA` `TestRail` `KNIME Workflow` `MacOS` `Windows` `Ubuntu`
 
 ---
 
 # Experience
 
-### 1. Verma Infocomm Pvt Ltd — Software Engineer [10/2015 – 06/2018]
-### 2. Taazaa Tech Pvt Ltd — QA Engineer [06/2018 – 04/2020]
-### 3. TechChefs Software Pvt Ltd — Consultant QA [04/2020 – 03/2021]
-- #### Client: Beckman Coulter
-### 4. Beckman Coulter — Senior Software Engineer-I [03/2021 – 09/2022]
-### 5. MSys Technologies — Sr SDET [09/2022 – 02/2023]
-- #### Client: Bakkt
-### 6. SMC2 — Lead Quality Engineer [02/2023 – 05/2023]
-- #### Client: CarParts
-- Elevated team productivity by **90%** through process optimization
-- Reduced manual testing time by **65%**
-### 7. Jeeves — Lead Quality Engineer [05/2023 – 06/2024]
-- Increased test case coverage by **90%**
-- Reduced manual testing time by **75%**
-- Prevented **18 major bugs** within a year
-- Improved on-time feature delivery to **95%**
-### 8. Cigniti Technologies — Technical Lead [06/2024 – 10/2024]
-- Prevented **3 major bugs** within a month
-- Mentored a team of **5 QA engineers**
-### 9. Altimetrik India Pvt Ltd — Senior Staff Engineer [10/2024 – Present]
+| Period | Role | Organisation |
+|---|---|---|
+| Oct 2024 – Present | Senior Staff Engineer | Altimetrik India Pvt Ltd |
+| Jun 2024 – Oct 2024 | Technical Lead | Cigniti Technologies |
+| May 2023 – Jun 2024 | Lead Quality Engineer | Jeeves |
+| Feb 2023 – May 2023 | Lead Quality Engineer | SMC2 *(Client: CarParts)* |
+| Sep 2022 – Feb 2023 | Sr SDET | MSys Technologies *(Client: Bakkt)* |
+| Mar 2021 – Sep 2022 | Senior Software Engineer-I | Beckman Coulter |
+| Apr 2020 – Mar 2021 | Consultant QA | TechChefs Software Pvt Ltd |
+| Jun 2018 – Apr 2020 | QA Engineer | Taazaa Tech Pvt Ltd |
+| Oct 2015 – Jun 2018 | Software Engineer | Verma Infocomm Pvt Ltd |
+
+### Highlights at current role — Altimetrik India Pvt Ltd
 - Designed a scalable Playwright framework for large-scale e-commerce platforms
 - Built a custom Playwright NPM package adopted across multiple teams
+- Leading QA for PostgreSQL → Snowflake data migration using Python & Great Expectations
 - Integrated API automation using Axios for dynamic test data and validation
 - Introduced Artillery for load testing; collaborated on JMeter-based benchmarking
 - Owned CI/CD pipelines with custom YAML templates and DevOps integration
@@ -84,31 +78,52 @@
 
 # Key Projects
 
-### 🔹 SNODS (Altimetrik)
-Leading the QA team for a large-scale data migration from **PostgreSQL to Snowflake**. Driving end-to-end data testing strategy using **Python** and **Great Expectations** to validate data integrity, schema consistency, and completeness across source and target systems. Ensuring zero data loss and high confidence in migrated datasets through automated data quality checks integrated into the migration pipeline.
+### 🔹 SNODS *(Altimetrik — Current)*
+Leading the QA team for a large-scale data migration from **PostgreSQL to Snowflake**. Driving end-to-end data testing strategy using **Python** and **Great Expectations** to validate data integrity, schema consistency, and completeness. Ensuring zero data loss and high confidence in migrated datasets through automated quality checks integrated into the migration pipeline.
 
-### 🔹 MWAP (Altimetrik)
-Set high-quality testing standards across MWAP Appshells. Integrated Playwright with TestRail. Developed a reusable automation package now used by multiple teams. Awarded *Pat on the Back* (Apr 2025).
+`Python` `Great Expectations` `Snowflake` `PostgreSQL` `Data Migration`
+
+### 🔹 MWAP *(Altimetrik)*
+Set high-quality testing standards across all MWAP Appshells. Integrated **Playwright with TestRail** for seamless test management. Developed a reusable automation package adopted by multiple teams. Awarded *Pat on the Back* (Apr 2025).
+
+`Playwright` `TestRail` `TypeScript` `NPM Package` `CI/CD`
 
 ### 🔹 Jeeves
-Built an automation framework from scratch. Prevented 18 major bugs in a year. Increased test coverage by 90% and reduced manual testing time by 75%.
+Built automation framework from scratch. Achieved **90% test coverage increase**, **75% reduction in manual testing**, and **95% on-time feature delivery**.
 
-### 🔹 Onverity (Cigniti)
-Migrated automation framework from Cypress/JavaScript to Playwright/TypeScript. Prevented 3 major bugs within a month.
+`Cypress` `JavaScript` `BDD` `Axios` `Agile`
 
-### 🔹 DxONE Insights Analytics (Beckman Coulter)
-Implemented automation framework from scratch with Cypress and JavaScript. Prevented 3 major bugs per month through proactive risk identification.
+### 🔹 Onverity *(Cigniti Technologies)*
+Migrated automation framework from **Cypress/JavaScript to Playwright/TypeScript**. Proactive risk identification prevented critical issues within weeks of joining.
+
+`Playwright` `TypeScript` `Framework Migration`
+
+### 🔹 DxONE Insights Analytics *(Beckman Coulter)*
+Implemented automation framework from scratch. Delivered monthly quality metrics reports and proactively mitigated quality risks throughout the project lifecycle.
+
+`Cypress` `JavaScript` `POM` `CI/CD`
 
 ---
 
-# Education (2011 – 2015)
-### JSS Academy of Technical Education, Bangalore
-#### B.E. in Computer Science & Engineering
+# 🏆 Achievements
+
+- 🥇 **Pat on the Back Award** — Altimetrik India, Apr 2025
+- ⭐ **Going Above and Beyond** — 2021
+- 🌟 **Star Performer of the Quarter** — 2019
+- 📈 Implemented automation framework from scratch → **75% reduction in manual testing time**
+- 🧑‍🏫 Mentored **20+ QA engineers** across multiple organisations
+
+---
+
+# Education
+
+### 🎓 JSS Academy of Technical Education, Bangalore
+**B.E. in Computer Science & Engineering** &nbsp;|&nbsp; 2011 – 2015
 
 ---
 
 # Hobbies
-🖥️ Exploring new software technologies &nbsp;|&nbsp; 💻 Coding challenges &nbsp;|&nbsp; 🧩 Analytical puzzles &nbsp;|&nbsp; 🌐 Open-source contributions
+🖥️ Exploring new software technologies &nbsp;|&nbsp; 💻 Coding challenges &nbsp;|&nbsp; 🧩 Analytical puzzles &nbsp;|&nbsp; 🌐 Contributing to open-source
 
 ---
 
